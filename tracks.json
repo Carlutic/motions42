@@ -130,13 +130,15 @@
   {
     "name": "GirlGoneWild_Motion_V3",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/2_western_songs_girlgonewild_motion_v3/girlgonewild_motion_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/2_western_songs_girlgonewild_motion_v3/girlgonewild_motion_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/1db11e1fceed16f1.mp3"
   },
   {
     "name": "Good Time",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/2_western_songs_good_time/good_time/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/2_western_songs_good_time/good_time/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/2_western_songs_good_time/good_time/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/ebd02d9a000ca17c.mp3"
   },
   {
     "name": "Grind Me Down",
@@ -552,19 +554,22 @@
     "name": "玛丽罗斯经典动作VMD by 京桥刹那",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/main_2.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/f41eec2008dcf1bd.mp3"
   },
   {
     "name": "玛丽罗斯经典动作VMD by 京桥刹那 - 投技混编 受",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/main_3.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/f41eec2008dcf1bd.mp3"
   },
   {
     "name": "玛丽罗斯经典动作VMD by 京桥刹那 - PowerBlow 受",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_powerblow_/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/5_martial_arts_moves_vmd_by/_vmd_by_/camera_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/f41eec2008dcf1bd.mp3"
   },
   {
     "name": "龍が如く3　峯QTE",
@@ -831,7 +836,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/7_daily_moves_by/_by_1_2_/main.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions42/collection/7_daily_moves_by/_by_1_2_/partner.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/7_daily_moves_by/_by_1_2_/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/7_daily_moves_by/_by_1_2_/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/25b9d41b0e9cc2a2.mp3"
   },
   {
     "name": "本日のパンチラ振り返り一挙の配布モーション - リュックに引っかかってチラ編",
@@ -1156,7 +1162,8 @@
   {
     "name": "BigGirlNow-Motion - biggirlnow(男)",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_biggirlnow_motio/biggirlnow_motion_bi/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_biggirlnow_motio/biggirlnow_motion_bi/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/82597f6b09011944.mp3"
   },
   {
     "name": "Bills モーション",
@@ -1346,13 +1353,15 @@
     "name": "交差型版 (1+2) (2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_happytap/_1_2_/main_2.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_2.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_2.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "通常版 (1+2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_happytap/_1_2_/main_3.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_3.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_happytap/_1_2_/partner_3.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/bd3a66197dbf596f.mp3"
   },
   {
     "name": "harebare - anon",
@@ -1375,7 +1384,8 @@
     "name": "Himouto! Umaru Chan",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_himouto_umaru_ch/himouto_umaru_chan/main.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_himouto_umaru_ch/himouto_umaru_chan/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_himouto_umaru_ch/himouto_umaru_chan/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/00730a8f76565fe6.mp3"
   },
   {
     "name": "It makes me ill - NSYNC",
@@ -1437,7 +1447,8 @@
   {
     "name": "my time",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_my_time/my_time/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_my_time/my_time/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions28/audiofix/b63a92b7a1004b38.mp3"
   },
   {
     "name": "nac_club",
@@ -1468,7 +1479,8 @@
     "name": "only my railgun 3 (1+2)",
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun_3_1_/main.vmd",
-    "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun_3_1_/partner.vmd"
+    "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_only_my_railgun_/only_my_railgun_3_1_/partner.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/17332c8d3a854d4c.mp3"
   },
   {
     "name": "Only One - the only one",
@@ -1493,7 +1505,8 @@
   {
     "name": "puzzle（パズル）",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_puzzle/puzzle_/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_puzzle/puzzle_/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/af649489f32f4f94.mp3"
   },
   {
     "name": "RAINBOWGIRL(REMIX)stylishP - RAINBOW GIRL REMIX(リップ)",
@@ -1645,12 +1658,14 @@
   {
     "name": "ありふれたせかいせいふく",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_/main_6.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_/main_6.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/a6d11f33e239dba7.mp3"
   },
   {
     "name": "ありふれたせかいせいふく - ありふれ土方上半身2_1226",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_2_1226/main.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_2_1226/main.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/a6d11f33e239dba7.mp3"
   },
   {
     "name": "とんとんまーえ - 右モーション",
@@ -1667,7 +1682,8 @@
   {
     "name": "ふわりクレヨン",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_/main_23.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_/main_23.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions11/audiofix/ad47057e241d083c.mp3"
   },
   {
     "name": "へたれフレンズ！モーション（5フレンズ）更新 - イギリスふれんず",
@@ -1682,7 +1698,8 @@
   {
     "name": "ゆめゆめ",
     "group": "Collection",
-    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_/main_27.vmd"
+    "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018/_/main_27.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/981669872ef9935e.mp3"
   },
   {
     "name": "アイネクライネ - アイネクライネ右rip",
@@ -2172,7 +2189,8 @@
     "group": "Collection",
     "modelMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/main_2.vmd",
     "partnerMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/partner_2.vmd",
-    "camMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/camera.vmd"
+    "camMotionFile": "https://carlutic.github.io/motions42/collection/8_old_stuff_2016_2018_mmd_i_can_fly_mo/i_can_fly_motions_by/camera.vmd",
+    "audioPlayerFile": "https://carlutic.github.io/motions7/audiofix/6ff85b0e06dd4575.mp3"
   },
   {
     "name": "Motion pack 1",
